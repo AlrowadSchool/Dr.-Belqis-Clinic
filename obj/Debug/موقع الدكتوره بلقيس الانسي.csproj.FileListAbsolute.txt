@@ -1,0 +1,43 @@
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\csc.exe
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\vbc.exe
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\VBCSCompiler.exe
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\موقع الدكتوره بلقيس الانسي.dll.config
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\موقع الدكتوره بلقيس الانسي.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\موقع الدكتوره بلقيس الانسي.pdb
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.csprojResolveAssemblyReference.cache
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.dll
+c:\users\ibrahim\documents\visual studio 2015\Projects\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.pdb
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\csc.exe
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\System.Collections.Immutable.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\System.Reflection.Metadata.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\vbc.exe
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\VBCSCompiler.exe
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\roslyn\VBCSCompiler.exe.config
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\موقع الدكتوره بلقيس الانسي.dll.config
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\موقع الدكتوره بلقيس الانسي.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\موقع الدكتوره بلقيس الانسي.pdb
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.csprojResolveAssemblyReference.cache
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.dll
+E:\المواقع الجاهزه\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.pdb
+C:\Users\ibrahim\Desktop\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.dll
+C:\Users\ibrahim\Desktop\موقع الدكتوره بلقيس الانسي\موقع الدكتوره بلقيس الانسي\obj\Debug\موقع الدكتوره بلقيس الانسي.pdb
