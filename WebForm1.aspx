@@ -4,7 +4,7 @@
 
 <html lang="en"><head runat="server">
   <meta charset="utf-8">
-  <title>عيادة الدكتوره / بلقيس محمد  الأنسي</title>
+  <title>عيادة الدكتوره / بلقيس محمد علي  الأنسي</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="description">
   <!-- Favicons -->
